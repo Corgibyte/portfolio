@@ -9,3 +9,11 @@
 .img {
   padding-right: 1em;
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: darkgray;
+}
