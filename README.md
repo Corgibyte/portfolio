@@ -12,6 +12,8 @@ A simple demonstration site showcasing HTML and CSS.
 
 This website showcases my ability to develop and deploy a simple website. It also contains content about me with links and descriptions of my projects.
 
+The website is visible on [GitHub Pages](https://Corgibyte.github.io/portfolio).
+
 ### Setup
 1. Download source folder
 2. Open `index.html` in your browser
