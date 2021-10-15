@@ -20,6 +20,6 @@
   color:darkgray;
 }
 
-.lang-item {
-  font-weight:bold;
+.emphasized-text {
+  font-weight: bolder;
 }
