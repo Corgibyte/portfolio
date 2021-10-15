@@ -1,5 +1,7 @@
 .nav {
   padding-top:0em;
+  margin-top:1em;
+  margin-bottom:1em;
 }
 
 .jumbotron {
@@ -10,10 +12,10 @@
   padding-right: 1em;
 }
 
-a {
-  color: white;
+.nav-link {
+  color:white;
 }
 
-a:hover {
-  color: darkgray;
+.nav-link:hover {
+  color:darkgray;
 }
