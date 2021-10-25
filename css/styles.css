@@ -8,10 +8,6 @@
   padding-bottom:0em;
 }
 
-.img {
-  padding-right: 1em;
-}
-
 .nav-link {
   color:white;
 }
@@ -26,4 +22,10 @@
 
 #skills {  
   float:left;
+}
+
+.figure {
+  border:1px inset lightslategray;
+  padding:0.5em;
+  margin-right:0.5em;
 }
