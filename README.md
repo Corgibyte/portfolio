@@ -15,8 +15,9 @@ This website showcases my ability to develop and deploy a simple website. It als
 The website is visible on [GitHub Pages](https://Corgibyte.github.io/portfolio).
 
 ### Setup
-1. Download source folder
-2. Open `index.html` in your browser
+1. Download and install Git
+2. Download source folder while using terminal in desired parent directory using `git clone https://github.com/Corgibyte/language-oracle`
+3. Open `index.html` in your browser
 
 ### Known bugs: 
 * At certain viewport sizes the `Skills` list will partially wrap
