@@ -20,7 +20,7 @@ The website is visible on [GitHub Pages](https://Corgibyte.github.io/portfolio).
 3. Open `index.html` in your browser
 
 ### Known bugs: 
-* At certain viewport sizes the `Skills` list will partially wrap
+* No currently known bugs
 
 ### License
 
